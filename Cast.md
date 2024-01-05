@@ -14,6 +14,8 @@ console.log("Take me to your leader");
 
 # Aneirin
 
+<img src="images/aneirin_tn.svg" alt="Aneirin">
+
 Aneirin is the foremost expert of cold climates in planetoids universe-wide, with a particular inquisitiveness in areas colder than -300 F / - 184.4444444 C (hence the profound personal interest in knitting mittens). Having travelled extensively, Aneirin enjoys collecting, receiving, and sending distinctive postcards from all corners of the macrocosm.
 
 | Name                           | Value                                 |
@@ -31,6 +33,8 @@ Aneirin is the foremost expert of cold climates in planetoids universe-wide, wit
 | **Singing Voice**              | alto                                  |
 
 # Celestia Dristi"
+
+<img src="images/celestia-dristi_tn.svg" alt="Celestia Dristi">
 
 As a mobility engineer, Celestia Dristi helps individuals and companies to improve personal and professional agility and growth in technology and systems. An expert in translating and implementing needs into functionality, Celestia Dristi has a unique proclivity for solving problems and helping to avoid future issues.
 
