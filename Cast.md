@@ -54,6 +54,8 @@ As a mobility engineer, Celestia Dristi helps individuals and companies to impro
 
 # Charmaine
 
+<img src="images/charmaine_tn.svg" alt="Charmaine">
+
 Charmaine loves fossils from every society and planet, and helping to piece together the stories they tell of an earlier time. Once completing university studies in paleontology with a minor in swimming arts, Charmaine immediately transitioned to working on the now-famous Dig of Pleoria.
 
 | Name                           | Value                                              |
